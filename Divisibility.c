@@ -4,7 +4,7 @@ int main()
 {
     int num;
     printf("ENTER THE NUMBER : \n");
-    scanf("%d", &num);
+ scanf("%d", &num);
     if (num % 5 == 0)
     {
         printf("THE NUMBER IS DIVISIBLE BY 5 \n");
