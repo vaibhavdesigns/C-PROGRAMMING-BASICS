@@ -13,7 +13,7 @@ int main()
         printf("%d IS GREATEST THAN %d and %d \n", b, a, c);
     }
     else if (c > a && c > b)
-        ;
+
     {
         printf("%d IS GREATEST THAN %d and %d \n", c, a, b);
     }
