@@ -10,5 +10,6 @@ int main()
     arr[0] = 100;
     printf("THE FIRST ELEMENT : \n ");
     printf("%d\n", arr[0]);
-    return 0;
+    return 0; 
+    
 }
