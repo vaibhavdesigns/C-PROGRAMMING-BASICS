@@ -11,5 +11,5 @@ int main()
     printf("THE FIRST ELEMENT : \n ");
     printf("%d\n", arr[0]);
     return 0; 
-    
+
 }
