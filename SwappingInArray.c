@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    int arr[26], temp;
+    int arr[27], temp;
     arr[0] = 12;
     arr[25] = 24;
     temp = arr[0];
