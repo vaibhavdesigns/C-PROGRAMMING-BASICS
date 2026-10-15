@@ -4,7 +4,7 @@ int main()
 {
     int arr[27], temp;
     arr[0] = 12;
-    arr[25] = 24;
+    arr[25] = 256;
     temp = arr[0];
     arr[0] = arr[25];
     arr[25] = temp;
