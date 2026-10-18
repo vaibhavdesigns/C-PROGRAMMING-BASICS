@@ -3,11 +3,11 @@
 int main()
 {
     int arr[27], temp;
-    arr[0] = 12;
+    arr[0] = 19;
     arr[25] = 26;
     temp = arr[0];
     arr[0] = arr[25];
     arr[25] = temp;
     printf("\n %d and %d ", arr[0], arr[25]);
     return 0;
-}
+} 
